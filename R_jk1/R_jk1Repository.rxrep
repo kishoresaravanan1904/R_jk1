@@ -57,19 +57,19 @@ rkJggg==
 		<appfolder
 		addcaps="host,nativewindow"
 		capname="host"
-		id="ee3be217-061c-444d-b938-b9385d50b751"
+		id="a1134c5c-2457-48a2-ad43-e8a99db460fd"
 		isrooted="True"
 		name="DESKTOP2U76B3E"
-		refimgid="ddc25b5c-641a-40d7-a075-37e8f7852b85"
+		refimgid="efabe7e2-7db7-4eeb-8f48-1e0bcc80f370"
 		refpath=""
 		searchtimeout="30000ms"
 		usecache="True">
 			<item
 			addcaps="host,nativewindow"
 			capname="host"
-			id="df8eaaff-62e9-4609-bf9d-bef66742f0cd"
+			id="aa82aebe-ae71-47e4-90f7-0db691586624"
 			name="DESKTOP2U76B3E"
-			refimgid="926f75bf-105e-4fc7-b382-25c8b4d6d60b"
+			refimgid="ef708b8d-9a67-40f7-90bb-2880d4a8db89"
 			refpath=""
 			robustPath=""
 			searchtimeout="30000ms">

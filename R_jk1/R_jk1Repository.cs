@@ -77,7 +77,7 @@ namespace R_jk1
         /// <summary>
         /// The DESKTOP2U76B3E folder.
         /// </summary>
-        [RepositoryFolder("ee3be217-061c-444d-b938-b9385d50b751")]
+        [RepositoryFolder("a1134c5c-2457-48a2-ad43-e8a99db460fd")]
         public virtual R_jk1RepositoryFolders.DESKTOP2U76B3EAppFolder DESKTOP2U76B3E
         {
             get { return _desktop2u76b3e; }
@@ -185,7 +185,7 @@ namespace R_jk1
         /// <summary>
         /// The DESKTOP2U76B3EAppFolder folder.
         /// </summary>
-        [RepositoryFolder("ee3be217-061c-444d-b938-b9385d50b751")]
+        [RepositoryFolder("a1134c5c-2457-48a2-ad43-e8a99db460fd")]
         public partial class DESKTOP2U76B3EAppFolder : RepoGenBaseFolder
         {
             RepoItemInfo _desktop2u76b3eInfo;
@@ -194,15 +194,15 @@ namespace R_jk1
             /// Creates a new DESKTOP2U76B3E  folder.
             /// </summary>
             public DESKTOP2U76B3EAppFolder(RepoGenBaseFolder parentFolder) :
-                    base("DESKTOP2U76B3E", "", parentFolder, 30000, null, true, "ee3be217-061c-444d-b938-b9385d50b751", "")
+                    base("DESKTOP2U76B3E", "", parentFolder, 30000, null, true, "a1134c5c-2457-48a2-ad43-e8a99db460fd", "")
             {
-                _desktop2u76b3eInfo = new RepoItemInfo(this, "DESKTOP2U76B3E", "", "", 30000, null, "df8eaaff-62e9-4609-bf9d-bef66742f0cd");
+                _desktop2u76b3eInfo = new RepoItemInfo(this, "DESKTOP2U76B3E", "", "", 30000, null, "aa82aebe-ae71-47e4-90f7-0db691586624");
             }
 
             /// <summary>
             /// The Self item.
             /// </summary>
-            [RepositoryItem("ee3be217-061c-444d-b938-b9385d50b751")]
+            [RepositoryItem("a1134c5c-2457-48a2-ad43-e8a99db460fd")]
             public virtual Ranorex.Host Self
             {
                 get
@@ -214,7 +214,7 @@ namespace R_jk1
             /// <summary>
             /// The Self item info.
             /// </summary>
-            [RepositoryItemInfo("ee3be217-061c-444d-b938-b9385d50b751")]
+            [RepositoryItemInfo("a1134c5c-2457-48a2-ad43-e8a99db460fd")]
             public virtual RepoItemInfo SelfInfo
             {
                 get
@@ -226,7 +226,7 @@ namespace R_jk1
             /// <summary>
             /// The DESKTOP2U76B3E item.
             /// </summary>
-            [RepositoryItem("df8eaaff-62e9-4609-bf9d-bef66742f0cd")]
+            [RepositoryItem("aa82aebe-ae71-47e4-90f7-0db691586624")]
             public virtual Ranorex.Host DESKTOP2U76B3E
             {
                 get
@@ -238,7 +238,7 @@ namespace R_jk1
             /// <summary>
             /// The DESKTOP2U76B3E item info.
             /// </summary>
-            [RepositoryItemInfo("df8eaaff-62e9-4609-bf9d-bef66742f0cd")]
+            [RepositoryItemInfo("aa82aebe-ae71-47e4-90f7-0db691586624")]
             public virtual RepoItemInfo DESKTOP2U76B3EInfo
             {
                 get
