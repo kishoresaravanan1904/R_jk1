@@ -92,8 +92,8 @@ namespace R_jk1
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Application", "Run application 'C:\\Users\\Kishore\\Desktop\\noc smart\\RxDemoApp.exe' in normal mode. Return value bound to $StartAutProcessIDVar.", new RecordItemIndex(0));
-            StartAutProcessIDVar = ValueConverter.ToString(Host.Local.RunApplication("C:\\Users\\Kishore\\Desktop\\noc smart\\RxDemoApp.exe", "", "", false));
+            Report.Log(ReportLevel.Info, "Application", "Run application 'C:\\Users\\Kishore\\Desktop\\noc smart\\rxdemo.exe' in normal mode. Return value bound to $StartAutProcessIDVar.", new RecordItemIndex(0));
+            StartAutProcessIDVar = ValueConverter.ToString(Host.Local.RunApplication("C:\\Users\\Kishore\\Desktop\\noc smart\\rxdemo.exe", "", "", false));
             Delay.Milliseconds(0);
             
         }
